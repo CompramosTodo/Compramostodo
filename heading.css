@@ -60,6 +60,7 @@ body {
   background-color: #1445A2;
   padding: 20px;
   color: white;
+  order: 2;
 }
   
   /* Main column */
@@ -70,6 +71,7 @@ body {
   background-color: #152f61;
   color:  white;
   font-size: 20px;
+  order: 1;
 }
   
   /* Fake image, just for this example */
