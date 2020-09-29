@@ -115,3 +115,27 @@ body {
       order: 1;
     }
   }
+
+  @media screen and (max-width: 400px) {
+    .row {   
+      flex-direction: column;
+    }
+    .side {
+      order: 2;
+    }
+    .main {
+      order: 1;
+    }
+  }
+
+  @media screen and (max-width: 900px) {
+    .row {   
+      flex-direction: column;
+    }
+    .side {
+      order: 2;
+    }
+    .main {
+      order: 1;
+    }
+  }
