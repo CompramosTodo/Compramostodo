@@ -111,4 +111,7 @@ body {
     .side {
       order: 2;
     }
+    .main {
+      order: 1;
+    }
   }
